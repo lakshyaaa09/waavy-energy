@@ -1,4 +1,4 @@
-import React, { useState, lazy, Suspense } from 'react';
+import { useState, lazy, Suspense } from 'react';
 import { Zap, ShieldCheck, Flame, ArrowRight } from 'lucide-react';
 
 // Vite equivalent of Next.js `dynamic(() => import(...), { ssr: false })`
